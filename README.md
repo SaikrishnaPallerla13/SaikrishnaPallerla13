@@ -48,4 +48,4 @@ Hey, I'm **Sai**. This is my corner of the internet for building, experimenting,
 ---
 
 
-<p align="center"><sub>LESS TALK. MORE BUILDING.</sub></p>
+
